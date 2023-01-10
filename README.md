@@ -6,11 +6,8 @@
 ## <b> Let's Connect..!</b>
 <div align='left'>
 
-<a href="https://twitter.com/0xMeshlabs" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-
-
+<a href="https://twitter.com/0xMeshlabs" target="_blank"></a>
+<img src="https://img.shields.io/twitter/follow/0xMeshlabs?label=Mesh%20Labs&style=social" alt=twitter style="margin-bottom: 5px;"/>
 
 </div>
 
